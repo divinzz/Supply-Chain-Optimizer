@@ -70,7 +70,6 @@ This project demonstrates how optimization techniques can significantly enhance 
 
 
 
-
 ![Image](https://github.com/user-attachments/assets/2fcca81f-b2b8-40a9-baa4-bfadc9df5182)
 
 **Version 2 (Optimized)** : 
