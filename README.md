@@ -66,8 +66,7 @@ There are several ways to improve and expand this project:
 
 This project demonstrates how optimization techniques can significantly enhance supply chain logistics, making them more cost-effective and timely. Using Python and the PuLP library, the project solves a classic supply chain route optimization problem. **Version 2** improves the model by considering additional complex constraints, providing a more robust solution to real-world logistics challenges.
 
-**Version 1 (PuLP)** :
-![Image](https://github.com/user-attachments/assets/2fcca81f-b2b8-40a9-baa4-bfadc9df5182)
+**Version 1 (PuLP)** :![Image](https://github.com/user-attachments/assets/2fcca81f-b2b8-40a9-baa4-bfadc9df5182)
 
 **Version 2 (Optimized)** : 
 
