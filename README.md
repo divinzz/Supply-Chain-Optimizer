@@ -1,17 +1,5 @@
 # Supply Chain Optimization
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: DIVIN DINESH
-
-*INTERN ID*: CT6WHGK
-
-*DOMINE*: DATA SCIENCE
-
-*DURATION*: 6 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 This project aims to improve supply chain distribution routes by using optimization techniques to make logistics more efficient. The main objective is to reduce transportation costs, shorten delivery times, and improve supply chain management by finding the best routes for shipping goods. The project has two versions with different levels of optimization:
 
 **Version 1 (PuLP)**: This version uses the PuLP library to solve linear programming problems. The goal is to minimize transportation costs by finding the best routes across a network of supply and demand points.
